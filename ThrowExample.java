@@ -11,7 +11,7 @@ public class ThrowExample {
         throw t;
         
         // Baris ini tidak lagi dikerjakan;
-        System.out.println("Ini tidak lagi dicetak");
+        // System.out.println("Ini tidak lagi dicetak");
     }
     
     public static void main(String[] args) {
