@@ -1,5 +1,5 @@
 
-package Tugas11;
+package Tugas10;
 
 import java.io.*;
 
